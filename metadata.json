@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Visualizer",
+  "description": "An application that takes a product image and visualizes it in various marketing mediums like coffee mugs, billboards, and t-shirts using Gemini AI. Users can also use text prompts to edit the generated visuals.",
+  "requestFramePermissions": []
+}
